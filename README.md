@@ -1,8 +1,3 @@
-# hello-world
-Trying things out.
+# Fund-me list
 
-list of things:
-1. Branch -> edit -> commit -> pull.
-
-Up next:
-https://guides.github.com/introduction/git-handbook/
+1. <a href="https://www.nationalgeographic.org/funding-opportunities/grants/">National Geographic Grants Program</a> - <i>paused due to COVID, but may come back</i>.
